@@ -1,1 +1,1 @@
-This is a repository for the DATS 6202 Machine Learning class
+This is a repository for the DATS 6202 Machine Learning class.
